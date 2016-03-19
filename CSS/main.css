@@ -1,0 +1,429 @@
+:root {
+  -o-var-uno: -1;
+  var-uno: -1;
+}
+
+header {
+  color: black;
+  height: 0px;
+  font-family: sans-serif, "Times New Roman";
+  font-size: 7.5em;
+  style: italic, bold;
+  top: 10px;
+  background-repeat: no-repeat;
+  background-position: top left;
+  background-color: #ccd9df;
+
+}
+
+nav {
+  /* Work on this */
+  float: left;
+  height: 700px;
+  top: -10px;
+
+
+}
+
+nav2 {
+  /* Work on this */
+  float: right;
+  height: 700px;
+  top: -10px;
+
+}
+
+nav3 {
+  /* Work on this */
+  height: 700px;
+  top: -10px;
+
+}
+
+footer {
+  width: auto;
+  padding: 5px;
+  display: block;
+  clear: both;
+  position: absolute;
+  z-index: 1;
+  height: 3em;
+  margin-top: -3em;
+  color: black;
+  text-align: center;
+  font-size: 10px;
+  background-color: white;
+  float: absolute;
+}
+
+.footer {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 5px;
+  background-color: #efefef;
+  text-align: center;
+  z-index: var(uno);
+}
+
+.header {
+  position: fixed;
+  right: 0;
+  top: 0;
+  left: 0;
+  padding: 5px;
+  background-color: #efefef;
+  text-align: center;
+  font-size: 20px;
+  font-family: arial, sans-serif;
+  font-style: bold;
+  z-index: 1;
+}
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-image: url('Backgrounds/c.jpg');
+  background-size: contain;
+  align: center;
+
+}
+
+.mainbody {
+  position: relative;
+
+}
+
+#csp3_content {
+  margin-bottom: 1000px;
+  margin-top: 1000px;
+}
+
+a {
+  padding: 4px;
+  font-weight: bold;
+  background-color: #4CAF50;
+  z-index: 1;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  text-decoration: none;
+  display: block;
+
+}
+
+
+a:link, a:visited {
+  padding: 4px;
+  font-weight: bold;
+  background-color: #4CAF50;
+  z-index: 1;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+  text-decoration: none;
+  display: block;
+
+}
+
+a:hover, a:active {
+  background-color: #7A991A;
+
+}
+
+table {
+  background-color: white;
+  outline-color: black;
+
+}
+
+headerhr {
+
+}
+
+body {
+  background-color: #ccd9df;
+  background-repeat: no-repeat;
+
+}
+
+links {
+  color: blue;
+  text-align: center;
+  font-style: normal;
+  font-size: 25px;
+  /* Do not disable! */
+
+}
+
+img1.relative {
+  /* DON'T WORRY ABOUT IT */
+}
+
+img2.relative {
+  /* DON'T WORRY ABOUT IT */
+}
+
+img3.relative {
+  /* DON'T WORRY ABOUT IT */
+}
+
+img4.relative {
+  /* DON'T WORRY ABOUT IT */
+}
+
+/* canvas {
+  width：960；
+  height：480；
+  background-color：white；
+
+} */
+
+.spanish {
+  text-align: center;
+  font-style: bold;
+  font-size: 20em;
+
+}
+
+.spanishLink {
+  text-align: center;
+  font-style: bold;
+  font-size: 1em;
+  align: center;
+}
+
+.tabD {
+  text-align: inherit;
+
+}
+
+.pD1 {
+  align: center;
+}
+
+donateHR {
+  color: black;
+}
+
+.space {
+  position: relative;
+  width: 350;
+  height: 350;
+}
+
+.obama {
+  position: relative;
+  width: 350;
+  height: 350;
+}
+
+.starwars {
+  width: 100%;
+  height: auto;
+}
+
+.dino {
+  width: 100%;
+  height: auto;
+}
+
+.cruz {
+  width: 100%;
+  height: auto;
+}
+
+.authorbio {
+  font-family: arial;
+}
+
+.jacrog23 {
+  font-family: arial;
+  text-align: center;
+  /* DO NOT REMOVE */
+
+}
+
+.about1 {
+  font-family: arial, sans-serif;
+  text-align: inherit;
+
+}
+
+.OtherPicOne {
+  position: absolute;
+  width: 100%
+  height: auto;
+  right: 1000;
+  top: 700;
+  z-index: -1;
+  float: right;
+
+}
+
+.OtherPicTwo {
+  position: absolute;
+  width: 100%
+  height: auto;
+  left: 1000;
+  top: 100;
+  z-index: -1;
+  float: left;
+}
+
+Rules {
+  font-family: arial;
+
+}
+
+nav4 {
+  text-align: center;
+  float: center;
+  font-style: arial;
+}
+
+#nav4 {
+  text-align: center;
+  float: center;
+  font-style: arial;
+}
+
+.nav4 {
+  text-align: center;
+  float: center;
+  font-style: arial;
+}
+
+.rules {
+  text-align: center;
+  float: center;
+  font-style: arial;
+}
+
+#rules {
+  text-align: center;
+  float: center;
+  font-style: arial;
+}
+
+
+.a1:link, .a1:visited {
+  display: block;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #98bf21;
+  width: 170px;
+  text-align: left;
+  padding: 4px;
+  text-decoration: none;
+
+}
+
+.a1:hover, .a1:active {
+    background-color: #7A991A;
+
+}
+
+.button {
+  padding: 4px;
+  font-weight: bold;
+  background-color: #4CAF50;
+  z-index: 1;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+
+
+}
+
+.button:hover, .button:active {
+    background-color: #7A991A;
+
+}
+
+.button:link, .button:visited {
+  display: block;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #98bf21;
+  width: 170px;
+  padding: 4px;
+  text-decoration: none;
+
+}
+
+.button1 {
+  padding: 4px;
+  font-weight: bold;
+  background-color: green;
+
+
+}
+
+.button1:hover, .button1:active {
+    background-color: #7A991A;
+
+}
+
+.button1:link, .button1:visited {
+  display: block;
+  font-weight: bold;
+  color: #ffffff;
+  background-color: #98bf21;
+  width: 170px;
+  padding: 4px;
+  text-decoration: none;
+
+}
+
+
+
+
+
+
+
+/* ERROR */
+
+
+.layovertable {
+  background: rgba(153,204,51,0.9);
+	z-index: 1;
+  text-align: center;
+  align: center;
+  display: block;
+  font-family: arial;
+  font-size: 16px;
+}
+
+.text {
+  font-family: arial;
+  font-size: 16px;
+}
+
+
+#nav1 {
+  float: right;
+}
+
+#nav2 {
+  float: left;
+}

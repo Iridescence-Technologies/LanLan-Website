@@ -1,0 +1,199 @@
+header {
+ color: black;
+ height: 0px;
+ font-family: sans-serif, "Times New Roman";
+ font-size: 7.5em;
+ style: italic, bold;
+ top: 10px;
+ background-repeat: no-repeat;
+ background-position: top left;
+ background-color: #ccd9df;
+
+}
+
+nav {
+ /* Work on this */
+ float: left;
+ color: black;
+ background-color: relative;
+ padding: 5px;
+ height: 700px;
+ top: -10px;
+ background-image: url("background_html.jpg");
+ background-repeat: no-repeat;
+ background-position: left top;
+
+}
+
+nav2 {
+ /* Work on this */
+ float: right;
+ color: black;
+ background-color: relative;
+ padding: 5px;
+ height: 700px;
+ top: -10px;
+ background-image: url("background_html.jpg")
+ background-repeat: no-repeat;
+ background-position: left top;
+
+}
+
+footer {
+ width: auto;
+ padding: 5px;
+ display: block;
+ clear: both;
+ position: absolute;
+ z-index: 10;
+ height: 3em;
+ margin-top: -3em;
+ color: black;
+ text-align: center;
+ font-size: 10px;
+ background-color: white;
+ float: absolute;
+}
+
+.footer {
+ position: fixed;
+ right: 0;
+ bottom: 0;
+ left: 0;
+ padding: 5px;
+ background-color: #efefef;
+ text-align: center;
+ z-index: 1;
+}
+
+.header {
+ position: fixed;
+ right: 0;
+ top: 0;
+ left: 0;
+ padding: 5px;
+ background-color: #efefef;
+ text-align: center;
+ font-size: 20px;
+ font-family: arial, sans-serif;
+ font-style: bold;
+ z-index: 1;
+}
+
+.table {
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+ background-image: url('Backgrounds/clouds.jpg')
+}
+
+.mainbody {
+ position: relative;
+}
+
+#csp3_content {
+ margin-bottom: 1000px;
+ margin-top: 1000px;
+}
+
+a:link, a:visited {
+ display: block;
+ font-weight: bold;
+ color: #ffffff;
+ background-color: #98bf21;
+ width: 170px;
+ text-align: left;
+ padding: 4px;
+ text-decoration: none;
+
+}
+
+a:hover, a:active {
+   background-color: #7A991A;
+   font-size: 130%;
+
+}
+
+table {
+ background-color: white;
+ outline-color: black;
+
+}
+
+headerhr {
+
+}
+
+body {
+ background-color: #ccd9df;
+ background-repeat: no-repeat;
+
+}
+
+.links1 {
+  position: absolute;
+  right: 0px;
+  left: 0px;
+  bottom: 0px;
+  color: blue;
+  font-style: none;
+  font-size: 25px;
+  /* Do not disable! */
+
+}
+
+.links2 {
+  position: absolute;
+  right: 100px;
+  bottom: 0px;
+  color: blue;
+  font-style: none;
+  font-size: 25px;
+
+}
+
+img1.relative {
+
+}
+
+img2.relative {
+
+}
+
+img3.relative {
+
+}
+
+img4.relative {
+
+}
+
+/* canvas {
+ width：960；
+ height：480；
+ background-color：white；
+
+} */
+
+.spanish {
+ text-align: center;
+ font-style: bold;
+ font-size: 20em;
+
+}
+
+.spanishLink {
+ text-align: center;
+ font-style: bold;
+ font-size: 1em;
+ align: center;
+}
+
+.coolkids {
+  position: absolute;
+  right: 315px;
+  top: 110px;
+  width: 550px;
+  height: 350px;
+  z-index: 0;
+}
