@@ -1,2 +1,1 @@
-# 兰兰 Website
-The Best Website Ever, don't worry about it.
+Made By: Nathan Englehart under Iridescence Technologies LLC. This is an open source project, feel free to modify and distribute as wished.
